@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 tags: [bee]
+published: true
 ---
 
 # Welcome
