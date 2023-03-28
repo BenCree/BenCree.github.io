@@ -43,9 +43,10 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/ChemCree # change to your twitter homepage
     - https://github.com/BenCree # change to your github homepage
+    - https://www.linkedin.com/in/ben-cree-16b6141a1
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ben-cree-16b6141a1
+   
 
 google_site_verification: # fill in to your verification string
 
