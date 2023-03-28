@@ -720,7 +720,7 @@ $sidebar-display: 'sidebar-display';
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background-image: url('assets/pic.png');
+  background-image: 'assets/pic.png';
   background-repeat: no-repeat;
   background-size: cover;
   backdrop-filter: brightness(0.7) blur(5px);
