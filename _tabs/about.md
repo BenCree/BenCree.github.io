@@ -24,7 +24,7 @@ My [thesis](https://github.com/BenCree/Thesis/blob/master/report_template(8).pdf
 ---
 
 
- Research
+# Research
 ## FEgrow
 
 
