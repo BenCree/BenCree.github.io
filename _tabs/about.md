@@ -53,7 +53,9 @@ _Bieniek, Mateusz K., Ben Cree, Rachael Pirie, Joshua T. Horton, Natalie J. Tatu
 ---
 
 ### AFF4:Cyclin T hit-to-lead campaign
+
 ![aff4cyct.png](_tabs/aff4cyct)
+
 The super-elongation complex (SEC) functions during gene transcription to control release from promoter-proximal pausing and the induction of rapid gene transcription.
 *AFF4* acts as a scaffold for the *CDK9-Cyclin T* complex (P-TEFb) to facilitate the phosphorylation of the RNA Polymerase II CTD through a direct interaction of the AFF4 N- terminus with cyclin T.
 SEC disruption is a potential method to target MYC-driven cancers and diffuse midline gliomas, which show a dependency on the AFF4:P-TEFb SEC, as well as leukemias with MLL-AF4 fusions.
