@@ -28,7 +28,7 @@ My [thesis](https://github.com/BenCree/Thesis/blob/master/report_template(8).pdf
 ## FEgrow
 
 
-![FEgrow workflow](https://github.com/BenCree/BenCree.github.io/blob/main/_tabs/fegrow.png)
+![FEgrow workflow](https://github.com/BenCree/BenCree.github.io/blob/main/tabs/fegrow.png)
 
 
 **Celebrating 5 years of Communications Chemistry - _Most highly downloaded paper_**
