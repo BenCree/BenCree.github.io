@@ -4,7 +4,6 @@ title: About Me
 published: true
 ---
 
-# About Me
 
 
 
@@ -30,7 +29,7 @@ My [thesis](https://github.com/BenCree/Thesis/blob/master/report_template(8).pdf
 ## FEgrow
 
 
-![FEgrow workflow]({{site.baseurl}}/_tabs/fegrow.png)
+![FEgrow workflow](/_tabs/fegrow.png)
 
 
 **Celebrating 5 years of Communications Chemistry - _Most highly downloaded paper_**
@@ -64,7 +63,7 @@ We have been providing computational assistance via FEP/docking to the hit-to-le
 ---
 
 ### CACHE#2 Challenge
-![cache2 challenge]({{site.baseurl}}/_tabs/CACHE-challenge-2.png)
+![cache2 challenge](https://github.com/BenCree/BenCree.github.io/blob/main/_tabs/CACHE-challenge-2.png?raw=true)
 
 The [CACHE#2](https://cache-challenge.org/challenges/finding-ligands-targeting-the-conserved-rna-binding-site-of-sars-cov-2-nsp13) challenge is the second CACHE Challenge target is the NSP13 helicase of SARS-CoV-2.
 
