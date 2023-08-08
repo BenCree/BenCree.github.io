@@ -9,6 +9,7 @@ published: true
 Alright? I'm a computational scientist, I'm quite into linguistics and etymologies, [DnB](https://www.youtube.com/watch?v=6XQc_FGNS98), comedy & spending far too much time trying to make money from crypto with various machine learning strategies.
 
 I love teaching and am a tutor for the [Brilliant Club](https://thebrilliantclub.org/), which helps disadvantaged students go to university. I got to design my own computational chemistry/drug design course for GCSE/A-level pupils and then teach it!
+
 ---
 
 ## PhD
