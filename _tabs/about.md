@@ -28,7 +28,7 @@ My [thesis](https://github.com/BenCree/Thesis/blob/master/report_template(8).pdf
 ## FEgrow
 
 
-![FEgrow workflow](https://github.com/BenCree/BenCree.github.io/blob/main/_tabs/fegrow.png?raw=true)
+![FEgrow workflow](https://github.com/BenCree/BenCree.github.io/blob/main/_tabs/fegrow.png)
 
 
 **Celebrating 5 years of Communications Chemistry - _Most highly downloaded paper_**
@@ -53,7 +53,7 @@ _Bieniek, Mateusz K., Ben Cree, Rachael Pirie, Joshua T. Horton, Natalie J. Tatu
 
 ### AFF4:Cyclin T hit-to-lead campaign
 
-![aff4](https://github.com/BenCree/BenCree.github.io/blob/main/assets/aff4cyct.png?raw=true)
+![aff4](https://github.com/BenCree/BenCree.github.io/blob/main/assets/aff4cyct.png)
 
 The super-elongation complex (SEC) functions during gene transcription to control release from promoter-proximal pausing and the induction of rapid gene transcription.
 *AFF4* acts as a scaffold for the *CDK9-Cyclin T* complex (P-TEFb) to facilitate the phosphorylation of the RNA Polymerase II CTD through a direct interaction of the AFF4 N- terminus with cyclin T.
