@@ -49,13 +49,15 @@ FEgrow integrates medicinal chemistry expertise in the design workflow, with sta
 
 We are currently working on an active learning and generative model augmented version.
 
-[https://doi.org/10.1038/s42004-022-00754-9](https://doi.org/10.1038/s42004-022-00754-9)
+
 
 #### Further Information
 
 Please see [https://www.cole-group.github.io/fegrow](https://www.cole-group.github.io/fegrow) for full installation instructions, documentation and acknowledgements.
 
 To get started see the online tutorial for which the IPython Notebook is available [here](https://cole-group.github.io/FEgrow/tutorial/tutorial/).
+
+[https://doi.org/10.1038/s42004-022-00754-9](https://doi.org/10.1038/s42004-022-00754-9)
 
 _Bieniek, Mateusz K., Ben Cree, Rachael Pirie, Joshua T. Horton, Natalie J. Tatum, and Daniel J. Cole. "An open-source molecular builder and free energy preparation workflow." Communications Chemistry 5, no. 1 (2022): 136._
 
