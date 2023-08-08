@@ -15,21 +15,25 @@ I love teaching and am a tutor for the [Brilliant Club](https://thebrilliantclub
 ## PhD
 
 
+
 I'm currently finishing my PhD in Computational (Medicinal) Chemistry in the Daniel Cole group at Newcastle University, and my project is focused on developing automated workflows for computer-aided drug design (CADD) for fragment hit-to-lead optimisation. validated using specific targets (CDK9, SARS-CoV-2 - NSP13). In practice this means I spend lots of my time on but not limited to: open-source development (have a look at our free energy de novo design tool : [https://github.com/cole-group/FEgrow](https://github.com/cole-group/FEgrow)), OpenMM (FEP calculations), messing around with RDKit, some Machine Learning and data analysis.
 I am also a part of the Molecular Science for Medicine (MoSMed) CDT.
 
 
 ## Education
+
+---
+
 I hold a MChem degree in Chemistry, specialising in computational chemistry, from St. Chad's College at Durham University.
 
 My [thesis](https://github.com/BenCree/Thesis/blob/master/report_template(8).pdf) was on simulation models of bent-core liquid crystals.
 
----
 
+---
 
 # Research
 
----
+
 
 ## FEgrow
 
