@@ -8,6 +8,7 @@ published: true
 
 Alright? I'm a computational scientist, I'm quite into linguistics and etymologies, [DnB](https://www.youtube.com/watch?v=6XQc_FGNS98), comedy & spending far too much time trying to make money from crypto with various machine learning strategies.
 
+I love teaching and am a tutor for the [Brilliant Club](https://thebrilliantclub.org/), which helps disadvantaged students go to university. I got to design my own computational chemistry/drug design course for GCSE/A-level pupils and then teach it!
 ---
 
 ## PhD
@@ -70,8 +71,8 @@ We have been providing computational assistance via FEP/docking to the hit-to-le
 ### CACHE#2 Challenge
 ![cache2 challenge](https://github.com/BenCree/BenCree.github.io/blob/main/_tabs/CACHE-challenge-2.png?raw=true)
 
-The [CACHE#2](https://cache-challenge.org/challenges/finding-ligands-targeting-the-conserved-rna-binding-site-of-sars-cov-2-nsp13) challenge is the second CACHE Challenge target is the NSP13 helicase of SARS-CoV-2.
+The [CACHE#2](https://cache-challenge.org/challenges/finding-ligands-targeting-the-conserved-rna-binding-site-of-sars-cov-2-nsp13) challenge is the second CACHE Challenge and the target is the NSP13 helicase of SARS-CoV-2.
 
-Participants were asked to find hits for the RNA-binding site of NSP13, and we have employed our [workflow](https://cache-challenge.org/challenges/app/630f530533e41) to discover a 9 µm inhibitor compound, which progressed to the next round.
+Participants were asked to find hits for the RNA-binding site of NSP13, and we have employed our [workflow](https://cache-challenge.org/challenges/app/630f530533e41) to discover a 9 µm inhibitor compound, which has progressed to the next round.
 
 ---
