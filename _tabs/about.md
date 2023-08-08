@@ -25,7 +25,7 @@ My [thesis](https://github.com/BenCree/Thesis/blob/master/report_template(8).pdf
 ## Research
 ### FEgrow
 
-{% include image.html url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42004-022-00754-9/MediaObjects/42004_2022_754_Fig1_HTML.png?as=webp" alt="FEgrow workflow" width="600" height="300" float="right" %}
+
 
 **Celebrating 5 years of Communications Chemistry - _Most highly downloaded paper_**
 
