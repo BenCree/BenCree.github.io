@@ -1,18 +1,7 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: About Me
 ---
-
-
-
-I am undertaking a PhD in Computational (Medicinal) Chemistry in the Daniel Cole group at Newcastle University, and my project is focused on developing automated workflows for computer-aided drug design (CADD) by utilising and integrating molecular dynamics and structural biology software, for fragment hit-to-lead optimisation. This sort of automation will utilise Python and be validated using specific targets (CDK9, SARS-CoV-2 - NSP13). The new workflow will allow non-specialists to access CADD more readily, and for specialists, automate laborious preparatory work.
-
-I hold a MChem degree in Chemistry, specialising in computational chemistry, from St. Chad's College at Durham University. My thesis was on simulation models of bent-core liquid crystals. I am currently a PhD student at Newcastle University with Molecular Science for Medicine (MoSMed), 
-
-I also have a strong interest in the philosophy of science.
-
-
 
 # About Me
 ## Optional Author Name <benstuartcree@gmail.com>
@@ -69,4 +58,3 @@ We have been providing computational assistance via FEP/docking to the hit-to-le
 The [CACHE#2](https://cache-challenge.org/challenges/finding-ligands-targeting-the-conserved-rna-binding-site-of-sars-cov-2-nsp13) challenge is the second CACHE Challenge target is the NSP13 helicase of SARS-CoV-2.
 
 Participants were asked to find hits for the RNA-binding site of NSP13, and we have employed our [workflow](https://cache-challenge.org/challenges/app/630f530533e41) to discover a 9 µm inhibitor compound, which progressed to the next round.
-
