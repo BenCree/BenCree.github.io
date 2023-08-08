@@ -5,7 +5,7 @@ published: true
 ---
 
 
-
+![enter image description here](https://github.com/BenCree/BenCree.github.io/blob/main/assets/image.png?raw=true)
 
 Alright? I'm a computational scientist, I'm quite into linguistics and etymologies, [DnB](https://www.youtube.com/watch?v=6XQc_FGNS98), comedy & spending far too much time trying to make money from crypto with various machine learning strategies.
 
